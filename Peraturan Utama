@@ -1,0 +1,13 @@
+
+clear
+figlet SHIFT KERJA MALAM DAN PAGI | lolcat
+echo " SHIFT MALAM" | lolcat
+echo " 01. A SETETENGAH 12" | lolcat
+echo " 02. MAMANGLUBIZ" | lolcat
+echo " DST" | lolcat
+echo " SHIFT PAGI" | lolcat
+echo " 01. JAM 11" | lolcat
+echo " 02. Cak ganteng" |lolcat
+echo " 03. Plat l" | lolocat
+echo " 04. Cak r" | lolcat
+fi
